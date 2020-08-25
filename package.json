@@ -1,0 +1,18 @@
+{
+  "name": "onlinedatingapp",
+  "version": "1.0.0",
+  "description": "onlinedatingapp\u001b[D\u001b[D\u001b[D \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C dating app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "omer mazor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
